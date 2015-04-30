@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="sayed-MS-7309" name="Laitkorgp.AppTest" tests="1" failures="0" timestamp="30 Apr 2015 09:37:39 GMT" time="11.352" errors="0">
+  <testcase name="samtest" time="11.342" classname="Laitkorgp.AppTest"/>
+</testsuite>
