@@ -10,7 +10,7 @@ public class AppTest {
 	@Test
 	public void samtest(){
 		WebDriver dri=new FirefoxDriver();
-		dri.get("http://www.google.com");
+		dri.get("http://www.yahoo.com");
 		}
 
 }
