@@ -32,7 +32,7 @@ public class AppTest {
 	dri.get("http://www.google.com");
 		}
  
- @AfterMethod
+ @AfterTest
  public void closebrow(){
 	 dri.close();
 	 
