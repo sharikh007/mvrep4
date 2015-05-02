@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="sayed-MS-7309" name="Laitkorgp.AppTest" tests="2" failures="0" timestamp="2 May 2015 09:09:20 GMT" time="52.497" errors="0">
-  <testcase name="paralleltetsone" time="12.684" classname="Laitkorgp.AppTest"/>
-  <testcase name="paralleltesttwo" time="3.508" classname="Laitkorgp.AppTest"/>
+<testsuite hostname="sayed-MS-7309" name="Laitkorgp.AppTest" tests="1" failures="0" timestamp="2 May 2015 10:05:18 GMT" time="28.357" errors="0">
+  <testcase name="paralleltetsone" time="10.122" classname="Laitkorgp.AppTest"/>
 </testsuite>

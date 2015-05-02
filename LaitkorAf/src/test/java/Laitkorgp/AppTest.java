@@ -12,8 +12,8 @@ import org.testng.annotations.Test;
 
 public class AppTest {
 	WebDriver dri;
-	@BeforeTest
-	@Parameters("browser")
+@BeforeTest
+@Parameters("browser")
 	public void bef(String browser){
 		if(browser.equalsIgnoreCase("firefox")){
 			dri=new FirefoxDriver();
@@ -34,7 +34,7 @@ public class AppTest {
  
  @AfterTest
  public void closebrow(){
-	 dri.close();
+	 dri.quit();
 	 
  }
 }

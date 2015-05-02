@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="52498" started-at="2015-05-02T14:38:27Z" finished-at="2015-05-02T14:39:20Z">
+  <suite name="Suite1" duration-ms="28360" started-at="2015-05-02T15:34:50Z" finished-at="2015-05-02T15:35:18Z">
     <groups>
     </groups>
-    <test name="test4" duration-ms="52497" started-at="2015-05-02T14:38:27Z" finished-at="2015-05-02T14:39:20Z">
+    <test name="test4" duration-ms="28357" started-at="2015-05-02T15:34:50Z" finished-at="2015-05-02T15:35:18Z">
       <class name="Laitkorgp.AppTest">
-        <test-method status="PASS" signature="bef(java.lang.String)" name="bef" is-config="true" duration-ms="36299" started-at="2015-05-02T14:38:27Z" finished-at="2015-05-02T14:39:03Z">
+        <test-method status="PASS" signature="bef(java.lang.String)" name="bef" is-config="true" duration-ms="18095" started-at="2015-05-02T15:34:50Z" finished-at="2015-05-02T15:35:08Z">
           <params>
             <param index="0">
               <value>
@@ -16,15 +16,15 @@
             </param>
           </params>
         </test-method>
-        <test-method status="PASS" signature="paralleltetsone()" name="paralleltetsone" duration-ms="12684" started-at="2015-05-02T14:39:03Z" finished-at="2015-05-02T14:39:16Z">
+        <test-method status="PASS" signature="paralleltetsone()" name="paralleltetsone" duration-ms="10122" started-at="2015-05-02T15:35:08Z" finished-at="2015-05-02T15:35:18Z">
         </test-method>
-        <test-method status="PASS" signature="paralleltesttwo()" name="paralleltesttwo" duration-ms="3508" started-at="2015-05-02T14:39:16Z" finished-at="2015-05-02T14:39:20Z">
+        <test-method status="PASS" signature="closebrow()" name="closebrow" is-config="true" duration-ms="139" started-at="2015-05-02T15:35:18Z" finished-at="2015-05-02T15:35:18Z">
         </test-method>
       </class>
     </test>
-    <test name="test2" duration-ms="29515" started-at="2015-05-02T14:38:27Z" finished-at="2015-05-02T14:38:57Z">
+    <test name="test2" duration-ms="17138" started-at="2015-05-02T15:34:50Z" finished-at="2015-05-02T15:35:07Z">
       <class name="Laitkorgp.AppTest">
-        <test-method status="PASS" signature="bef(java.lang.String)" name="bef" is-config="true" duration-ms="15771" started-at="2015-05-02T14:38:27Z" finished-at="2015-05-02T14:38:43Z">
+        <test-method status="PASS" signature="bef(java.lang.String)" name="bef" is-config="true" duration-ms="10382" started-at="2015-05-02T15:34:50Z" finished-at="2015-05-02T15:35:00Z">
           <params>
             <param index="0">
               <value>
@@ -33,9 +33,9 @@
             </param>
           </params>
         </test-method>
-        <test-method status="PASS" signature="paralleltetsone()" name="paralleltetsone" duration-ms="9656" started-at="2015-05-02T14:38:43Z" finished-at="2015-05-02T14:38:53Z">
+        <test-method status="PASS" signature="paralleltetsone()" name="paralleltetsone" duration-ms="6120" started-at="2015-05-02T15:35:01Z" finished-at="2015-05-02T15:35:07Z">
         </test-method>
-        <test-method status="PASS" signature="paralleltesttwo()" name="paralleltesttwo" duration-ms="3936" started-at="2015-05-02T14:38:53Z" finished-at="2015-05-02T14:38:57Z">
+        <test-method status="PASS" signature="closebrow()" name="closebrow" is-config="true" duration-ms="561" started-at="2015-05-02T15:35:07Z" finished-at="2015-05-02T15:35:07Z">
         </test-method>
       </class>
     </test>
