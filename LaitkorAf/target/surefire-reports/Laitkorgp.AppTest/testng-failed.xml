@@ -5,7 +5,8 @@
     <classes>
       <class name="Laitkorgp.AppTest">
         <methods>
-          <include name="testLengthOfTheUniqueKey"/>
+          <include name="paralleltesttwo"/>
+          <include name="paralleltetsone"/>
         </methods>
       </class>
     </classes>
