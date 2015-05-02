@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Laitkorgp.AppTest" duration-ms="11352" started-at="2015-04-30T15:07:27Z" finished-at="2015-04-30T15:07:38Z">
+  <suite name="Laitkorgp.AppTest" duration-ms="31270" started-at="2015-05-01T13:16:31Z" finished-at="2015-05-01T13:17:02Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="11352" started-at="2015-04-30T15:07:27Z" finished-at="2015-04-30T15:07:38Z">
+    <test name="Command line test" duration-ms="31270" started-at="2015-05-01T13:16:31Z" finished-at="2015-05-01T13:17:02Z">
       <class name="Laitkorgp.AppTest">
-        <test-method status="PASS" signature="samtest()" name="samtest" duration-ms="11342" started-at="2015-04-30T15:07:27Z" finished-at="2015-04-30T15:07:38Z">
+        <test-method status="PASS" signature="testLengthOfTheUniqueKey()" name="testLengthOfTheUniqueKey" duration-ms="31250" started-at="2015-05-01T13:16:31Z" finished-at="2015-05-01T13:17:02Z">
         </test-method>
       </class>
     </test>

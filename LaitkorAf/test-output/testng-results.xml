@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="41388" started-at="2015-05-02T07:26:39Z" finished-at="2015-05-02T07:27:20Z">
+    <groups>
+    </groups>
+    <test name="test2" duration-ms="18765" started-at="2015-05-02T07:26:39Z" finished-at="2015-05-02T07:26:57Z">
+      <class name="Laitkorgp.AppTest">
+        <test-method status="PASS" signature="bef(java.lang.String)[pri:0, instance:Laitkorgp.AppTest@1df503b]" name="bef" is-config="true" duration-ms="9456" started-at="2015-05-02T12:56:39Z" finished-at="2015-05-02T12:56:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="paralleltetsone()[pri:0, instance:Laitkorgp.AppTest@1df503b]" name="paralleltetsone" duration-ms="7917" started-at="2015-05-02T12:56:48Z" finished-at="2015-05-02T12:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paralleltetsone -->
+        <test-method status="PASS" signature="paralleltesttwo()[pri:0, instance:Laitkorgp.AppTest@1df503b]" name="paralleltesttwo" duration-ms="1226" started-at="2015-05-02T12:56:56Z" finished-at="2015-05-02T12:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paralleltesttwo -->
+      </class> <!-- Laitkorgp.AppTest -->
+    </test> <!-- test2 -->
+    <test name="test4" duration-ms="41384" started-at="2015-05-02T07:26:39Z" finished-at="2015-05-02T07:27:20Z">
+      <class name="Laitkorgp.AppTest">
+        <test-method status="PASS" signature="bef(java.lang.String)[pri:0, instance:Laitkorgp.AppTest@40eca3]" name="bef" is-config="true" duration-ms="24310" started-at="2015-05-02T12:56:39Z" finished-at="2015-05-02T12:57:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="paralleltetsone()[pri:0, instance:Laitkorgp.AppTest@40eca3]" name="paralleltetsone" duration-ms="13520" started-at="2015-05-02T12:57:03Z" finished-at="2015-05-02T12:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paralleltetsone -->
+        <test-method status="PASS" signature="paralleltesttwo()[pri:0, instance:Laitkorgp.AppTest@40eca3]" name="paralleltesttwo" duration-ms="3547" started-at="2015-05-02T12:57:16Z" finished-at="2015-05-02T12:57:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paralleltesttwo -->
+      </class> <!-- Laitkorgp.AppTest -->
+    </test> <!-- test4 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
