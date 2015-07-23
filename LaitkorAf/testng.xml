@@ -7,10 +7,4 @@
  <class name="Laitkorgp.AppTest"></class>
  </classes>
 </test>
-<test name="test4">
- <parameter name="browser" value="firefox" />
- <classes>
- <class name="Laitkorgp.AppTest"></class>
- </classes>
-</test>
 </suite>
